@@ -825,11 +825,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\backup\\NepaliDateFileGenerator\\NepaliDateFileGenerator\\NepaliDateFileGenerator.csproj",
+      "projectUniqueName": "G:\\backup\\ng-nepali-date-picker-nepali-date-datas-array\\NepaliDateFileGenerator\\NepaliDateFileGenerator.csproj",
       "projectName": "NepaliDateFileGenerator",
-      "projectPath": "G:\\backup\\NepaliDateFileGenerator\\NepaliDateFileGenerator\\NepaliDateFileGenerator.csproj",
+      "projectPath": "G:\\backup\\ng-nepali-date-picker-nepali-date-datas-array\\NepaliDateFileGenerator\\NepaliDateFileGenerator.csproj",
       "packagesPath": "C:\\Users\\devel\\.nuget\\packages\\",
-      "outputPath": "G:\\backup\\NepaliDateFileGenerator\\NepaliDateFileGenerator\\obj\\",
+      "outputPath": "G:\\backup\\ng-nepali-date-picker-nepali-date-datas-array\\NepaliDateFileGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -877,7 +877,12 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true
